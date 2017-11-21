@@ -13,7 +13,7 @@ from PIL import Image
 from scipy import ndimage
 from lr_utils import load_dataset
 
-%matplotlib inline
+# %matplotlib inline
 
 
 # Loading the data (cat/non-cat)
