@@ -265,11 +265,3 @@ def L2(yhat, y):
     ### END CODE HERE ###
     
     return loss
-
-
-
-
-
-
-
-
